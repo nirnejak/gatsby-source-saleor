@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-plugin-saleor",
+  "name": "gatsby-source-saleor",
   "version": "1.0.0",
   "description": "A Gatsby Plugin to easily integrate Saleor",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nirnejak/gatsby-plugin-saleor.git"
+    "url": "git+https://github.com/nirnejak/gatsby-source-saleor.git"
   },
   "keywords": [
     "Gatsby",
@@ -19,7 +19,7 @@
   "author": "Jitendra Nirnejak",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nirnejak/gatsby-plugin-saleor/issues"
+    "url": "https://github.com/nirnejak/gatsby-source-saleor/issues"
   },
-  "homepage": "https://github.com/nirnejak/gatsby-plugin-saleor#readme"
+  "homepage": "https://github.com/nirnejak/gatsby-source-saleor#readme"
 }
