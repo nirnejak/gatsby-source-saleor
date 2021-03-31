@@ -11,12 +11,15 @@
     "url": "git+https://github.com/nirnejak/gatsby-source-saleor.git"
   },
   "keywords": [
-    "Gatsby",
-    "Saleor",
-    "Plugin",
-    "Integration"
+    "gatsby",
+    "gatsby-plugin",
+    "saleor",
+    "plugin",
+    "source",
+    "integration",
+    "ecommerce"
   ],
-  "author": "Jitendra Nirnejak",
+  "author": "Jitendra Nirnejak <jeetnirnejak@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/nirnejak/gatsby-source-saleor/issues"
