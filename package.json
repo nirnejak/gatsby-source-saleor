@@ -4,7 +4,8 @@
   "description": "A Gatsby Plugin to easily integrate Saleor",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"No build script setup\""
   },
   "repository": {
     "type": "git",
@@ -20,7 +21,7 @@
     "ecommerce"
   ],
   "author": "Jitendra Nirnejak <jeetnirnejak@gmail.com>",
-  "license": "MIT",
+  "license": "0BSD",
   "bugs": {
     "url": "https://github.com/nirnejak/gatsby-source-saleor/issues"
   },
